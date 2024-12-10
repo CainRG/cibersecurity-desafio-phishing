@@ -19,3 +19,8 @@
 ### Resutados
 
 ![Alt text](./passwd.png "Optional title")
+
+### OBSERVAÇÕES
+- Atualmente, existe algumas dificuldades com as ultimas versões do setoolkit / navegadores.
+- Clonando a pagina do facebook, provavelmente não irá capturar o login/passwd corretamente, olhando o log.
+- Neste case, foi usado a pagina de login do Instagram.
